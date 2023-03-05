@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Project Tasks</title>
   </head>
   <body>
+    <div style="background-color: white;">
+  <h1>Our Online Shopping Platform</h1>
+  <p>Welcome to our online shopping platform where you can browse and purchase a wide variety of products conveniently. We use aggregated data from various sources to provide you with an extensive selection of items to choose from.</p>
+  <p>Our website offers powerful filtering tools that enable you to narrow down your search results by price range, brand, category, and other important factors. This helps you quickly find exactly what you're looking for, whether you're on the hunt for a specific item or just browsing for inspiration.</p>
+  <p>Once you've found your desired product, our website offers detailed product descriptions and high-quality images to help you make an informed purchasing decision. You can easily add items to your shopping cart and proceed to checkout when you're ready to complete your purchase.</p>
+  <p>We are committed to providing a seamless shopping experience and excellent customer service. Our support team is always available to assist you with any questions or concerns you may have. Shop with us and experience the convenience of online shopping.</p>
+</div>
     <h1>Project Tasks</h1>
     <p>This repository contains a list of tasks to complete for a web application project.</p>
     <h2>Tasks</h2>
