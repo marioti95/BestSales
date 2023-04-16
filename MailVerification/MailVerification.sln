@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailVerification", "MailVerification\MailVerification.csproj", "{28D45E56-90C2-45E5-8CD3-BE5F1A221364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D45E56-90C2-45E5-8CD3-BE5F1A221364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D45E56-90C2-45E5-8CD3-BE5F1A221364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D45E56-90C2-45E5-8CD3-BE5F1A221364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D45E56-90C2-45E5-8CD3-BE5F1A221364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE92B00-9E88-49E7-9411-142A5B3D8240}
+	EndGlobalSection
+EndGlobal
